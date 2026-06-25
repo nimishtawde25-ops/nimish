@@ -16,9 +16,13 @@ I'm working on my goal & future.
 
 ## Fun Facts:
 - While most people look at the sky and see weather, But i just see billions of wireless data packets flying through the air.
+- 
 - I don't need a time machine. I just need a terminal, a cup of coffee, and a complex security problem to completely forget what day of the week it is.
+- 
 - I like to play games alot.
+- 
 - Hobbies: play football,games,building things.
+- 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nimish___10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nimish Tawde) 
 
