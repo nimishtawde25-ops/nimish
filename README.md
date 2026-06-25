@@ -1,5 +1,6 @@
 ## Heyyy There..!
-I'm Nimish..!,a Ethical Hacker || Cloud Security Engineer from India.
+I'm Nimish..!, A Ethical Hacker || Cloud Security Engineer from India.
+
 I break cloud infrastructure legally to build it back strong.💪🏻
 
 My work focuses on bridging the gap between offensive security tactics and automated cloud defense.💻🛡️
