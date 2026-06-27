@@ -34,13 +34,16 @@ I'm working on my goal & future.🎯
 ![](https://streak-stats.demolab.com/?user=nimishtawde25-ops&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nimishtawde25-ops&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_Code-Lover-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🐧_Linux-Kali-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔐_Cybersecurity-Learner-red?style=for-the-badge"/>
-</p>
+# 🏆 GitHub Achievements 🏆
+
+<img src="https://img.shields.io/badge/🏆_Projects-Building-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔐_Cybersecurity-Learning-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🐧_Linux-Active-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🐍_Python-Developer-yellow?style=for-the-badge" />
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
