@@ -34,7 +34,6 @@ I'm working on my goal & future.🎯
 ![](https://streak-stats.demolab.com/?user=nimishtawde25-ops&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nimishtawde25-ops&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies 
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
@@ -42,11 +41,6 @@ I'm working on my goal & future.🎯
   <img src="https://img.shields.io/badge/🐧_Linux-Kali-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🔐_Cybersecurity-Learner-red?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimishtawde25-ops&show_icons=true&theme=matrix"/>
-</p>
-<img src="https://github-profile-trophy.vercel.app/?username=nimishtawde25-ops&theme=radical&no-frame=true&no-bg=true&column=4" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
