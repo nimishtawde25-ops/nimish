@@ -35,7 +35,9 @@ I'm working on my goal & future.🎯
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nimishtawde25-ops&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies 
-<img src="https://github-profile-trophy.vercel.app/?username=nimishtawde25-ops&theme=matrix&no-frame=true&column=7"/> 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nimishtawde25-ops&theme=tokyonight&no-frame=true&column=7"/>
+</p> 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
