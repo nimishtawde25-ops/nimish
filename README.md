@@ -49,7 +49,7 @@ I'm working on my goal & future.🎯
 
 <img src="https://img.shields.io/badge/🥇_Linux-Mastered-black?style=for-the-badge&logo=linux"/>
 <img src="https://img.shields.io/badge/🌐_Network-Expert-blue?style=for-the-badge&logo=cisco"/>
-<img src="https://img.shields.io/badge/☁️ _Cloud_Security-Engineer-light blue?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/☁️ _Cloud_Security-Engineer-lightblue?style=for-the-badge&logo=amazonaws"/>
 
 </div>
 
