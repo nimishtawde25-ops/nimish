@@ -35,13 +35,64 @@ I'm working on my goal & future.🎯
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nimishtawde25-ops&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <div align="center">
+<div align="center">
 
-# 🏆 GitHub Achievements 🏆
+<h2>🏆 GitHub Achievements 🏆</h2>
 
-<img src="https://img.shields.io/badge/🏆_Projects-Building-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔐_Cybersecurity-Learning-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🐧_Linux-Active-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🐍_Python-Developer-yellow?style=for-the-badge" />
+<table>
+<tr>
+<td align="center" width="200">
+
+🥇<br>
+<b>Cybersecurity</b><br>
+Learning
+
+</td>
+
+<td align="center" width="200">
+
+🥈<br>
+<b>Projects</b><br>
+Building
+
+</td>
+
+<td align="center" width="200">
+
+🥉<br>
+<b>Python</b><br>
+Development
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🐧<br>
+<b>Linux</b><br>
+Active
+
+</td>
+
+<td align="center">
+
+🌐<br>
+<b>Networking</b><br>
+Improving
+
+</td>
+
+<td align="center">
+
+☁️<br>
+<b>Cloud</b><br>
+Exploring
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
