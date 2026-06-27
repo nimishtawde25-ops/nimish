@@ -39,7 +39,7 @@ I'm working on my goal & future.🎯
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-## 🏆 TryHackMe 
+## 🏆 Portfolio
 
 🔐 My TryHackMe Profile:
 
