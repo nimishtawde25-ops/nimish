@@ -46,6 +46,7 @@ I'm working on my goal & future.🎯
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nimishtawde25-ops&show_icons=true&theme=matrix"/>
 </p>
+<img src="https://github-profile-trophy.vercel.app/?username=nimishtawde25-ops&theme=radical&no-frame=true&no-bg=true&column=4" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
