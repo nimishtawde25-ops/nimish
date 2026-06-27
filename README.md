@@ -36,7 +36,7 @@ I'm working on my goal & future.🎯
 
 ## 🏆 GitHub Trophies 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nimishtawde25-ops&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nimishtawde25-ops"/>
 </p> 
 
 ### ✍️ Random Dev Quote
