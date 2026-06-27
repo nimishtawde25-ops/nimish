@@ -44,6 +44,10 @@ I'm working on my goal & future.🎯
 🔐 My TryHackMe Profile:
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge)](https://tryhackme.com/p/nimishtawde25)
+
+💀 Hack The Box:
+
+https://profile.hackthebox.com/
 ---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nimishtawde25-ops&limit=5&theme=radical&combine_all_yearly_contributions=true)
