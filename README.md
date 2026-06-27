@@ -47,7 +47,7 @@ I'm working on my goal & future.🎯
 
 💀 Hack The Box:
 
-https://profile.hackthebox.com/
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/) 
 ---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nimishtawde25-ops&limit=5&theme=radical&combine_all_yearly_contributions=true)
