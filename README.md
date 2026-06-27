@@ -37,62 +37,19 @@ I'm working on my goal & future.🎯
 <div align="center">
 <div align="center">
 
-<h2>🏆 GitHub Achievements 🏆</h2>
+<div align="center">
 
-<table>
-<tr>
-<td align="center" width="200">
+<h2>🏆 GitHub Trophy Room 🏆</h2>
 
-🥇<br>
-<b>Cybersecurity</b><br>
-Learning
+<img src="https://img.shields.io/badge/🏆_Security_Labs-Active-00ff00?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏆_Projects-Building-00ffff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏆_Python-Skills-yellow?style=for-the-badge&logo=python&logoColor=black"/>
 
-</td>
+<br>
 
-<td align="center" width="200">
-
-🥈<br>
-<b>Projects</b><br>
-Building
-
-</td>
-
-<td align="center" width="200">
-
-🥉<br>
-<b>Python</b><br>
-Development
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🐧<br>
-<b>Linux</b><br>
-Active
-
-</td>
-
-<td align="center">
-
-🌐<br>
-<b>Networking</b><br>
-Improving
-
-</td>
-
-<td align="center">
-
-☁️<br>
-<b>Cloud</b><br>
-Exploring
-
-</td>
-</tr>
-
-</table>
+<img src="https://img.shields.io/badge/🥇_Linux-Mastered-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/🥈_Networking-Learning-blue?style=for-the-badge&logo=cisco"/>
+<img src="https://img.shields.io/badge/🥉_Cloud_Security-Exploring-orange?style=for-the-badge&logo=amazonaws"/>
 
 </div>
 
