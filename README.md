@@ -20,7 +20,7 @@ I'm working on my goal & future.🎯
  
 - I don't need a time machine. I just need a terminal, a cup of coffee, and a complex security problem to completely forget what day of the week it is.📆
  
-- I like to play games alot.🎮
+- I like to play games a lot.🎮
  
 - Hobbies:to play football,games,building things.
  
